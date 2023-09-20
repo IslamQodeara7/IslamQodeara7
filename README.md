@@ -16,8 +16,8 @@
 
 
 ### Connect with Me :
-
-<a href="https://www.linkedin.com/in/islam-qodeara-b3150821a" target="_blank">Linked in</a>
+<a href="https://www.linkedin.com/in/islam-qodeara-b3150821a" target="_blank"><img src="https://img.shields.io/badge/-Islam%20QOdeara-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/01287577651" target="_blank"><img src="https://img.shields.io/badge/-islam%20qodeara-0077B5?style=for-the-badge&logo=Whats&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
